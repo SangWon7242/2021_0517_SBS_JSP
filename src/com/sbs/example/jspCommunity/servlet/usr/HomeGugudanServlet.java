@@ -1,4 +1,4 @@
-package com.sbs.java.am.servlet.usr;
+package com.sbs.example.jspCommunity.servlet.usr;
 
 import java.io.IOException;
 
